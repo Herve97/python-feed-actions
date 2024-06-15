@@ -1,22 +1,23 @@
 title: The Future in Tech -
-subtitle: Powered by LinkedIn Learning
-author: Ray Villalobos
+subtitle: Powered by Trust Tech
+author: Hervé Diams
 description: Conversations with leaders building next generation techology tools.
 image: /images/artwork.jpg
 language: en-us
 category: Technology
 format: audio/mpeg
-link: http://raybo.org/podcast-test
+# link: http://raybo.org/podcast-test
+link: https://herve97.github.io/python-feed-actions
 item:
-  - title: EP01-What's Happening in 2023
-    description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
-    published: Thu, 12 Jan 2023 18:00:00 GMT
+  - title: EP01-What's Happening in 2024
+    description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2024 holds for the future in technology.
+    published: Thu, 15 Jun 2024 22:14:00 GMT
     file: /audio/TFIT01.mp3
     duration: 00:00:36
     length: 576,324
   - title: EP02-What is Generative AI?
-    description:  Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2023.
-    published: Thu, 19 Jan 2023 18:00:00 GMT
+    description:  Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2024.
+    published: Thu, 14 Jan 2024 20:00:00 GMT
     file: /audio/TFIT02.mp3
     duration: 00:00:22
     length: 351,963
